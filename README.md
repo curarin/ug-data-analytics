@@ -10,3 +10,8 @@ Had good success with updating / adding additional keywords from the top queries
 - Add a threshold and filter for potential quick wins in Title Tag / H1, where the ranking of top query is worse than position 3
 - Add / Update title tag / h1 tag with the top query and keep looking for ranking increases within the next couple of days
 
+### How did changes to a URL affect the performance?
+Re-checks are something quite common in my daily business. Thats why I built a data pipeline with data visualization to automate this. The script does the following:
+- Takes a dictionary with URL as well as a date as input
+- Fetches data for two date frames (before and after optimization)
+- Visualizes top 10 keywords as a table as well as clicks, query count and average ranking of top keyword (by clicks) over time
