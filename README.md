@@ -1,7 +1,7 @@
-## SEO Data Analytics Scripts
+# SEO Data Analytics Scripts
 Currently using many different python script in order to answer very specific analytics questions. In this repo are my top ones - read some informations below.
 
-### Top Query within Title / H1 Tag?
+## Top Query within Title / H1 Tag?
 Had good success with updating / adding additional keywords from the top queries to title and / or h1 tag. The script does the following:
 - Fetch current GSC data through google API
   - Generate top query for each landingpage in the date frame depending on clicks
@@ -10,8 +10,19 @@ Had good success with updating / adding additional keywords from the top queries
 - Add a threshold and filter for potential quick wins in Title Tag / H1, where the ranking of top query is worse than position 3
 - Add / Update title tag / h1 tag with the top query and keep looking for ranking increases within the next couple of days
 
-### How did changes to a URL affect the performance?
+## How did changes to a URL affect the performance?
 Re-checks are something quite common in my daily business. Thats why I built a data pipeline with data visualization to automate this. The script does the following:
 - Takes a dictionary with URL as well as a date as input
 - Fetches data for two date frames (before and after optimization)
 - Visualizes top 10 keywords as a table as well as clicks, query count and average ranking of top keyword (by clicks) over time
+
+## Where did our content gain or loose over the course of time?
+The more content pages, the harder it is to track loosing or winning pages. This script is used on a monthly basis and shall act as a "early warning system" for decaying and/or winning pages. 
+- Calculate click slope for all pages for the last X days (standard: 30 days)
+- Bins the results depending on the sum of clicks
+- After choosing which bin you want to focus the script re-fetches specific data for n-amount of urls inside this bin
+- Visualizes clicks as well as click trend: ![Alt text](image.png)
+- Also visualizes the average ranking for the top keyword (by clicks): ![Alt text](image-1.png)
+
+If you see the following pattern you can dive deeper into the specific url:
+- declining clicks & declining average ranking of top keyword
