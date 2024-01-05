@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "seo-datawarehouse-379113",
+    "private_key_id": "e4afcdb31a35385a778f8a147ad281be78f0982d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCV8fgpyLshOJkf\nrZnkFpyR2jAgdY5W4HwyfgcHMm7zfClG/K0X97GG8exMu4Cc+B4fFzvjZyP+KDZc\nfxu5t246CrYJSvaf1BiMG7D+mQyovbjw/qV3gXSePU2C0nvOyEzaslvCnAOC96gF\nFXdYHeigsS0Ep70dl7ghfEujYLS3/o7tGU9Iedc0FriVaXQrDBN/+D1Zemk/hj3X\nfFWn/vjkcO9H/S0xMmDHC19nomiokRBRahzjo0d8qen/owFNdtsaoll43s1aUSvJ\ncm6u8KMXojiGCS+0u1cXirKMQgx8SJK5X6tsLCT6lmGyh27XDcGJSLHZYUaXhAps\nWw7H2mgzAgMBAAECggEACRJ5m1cwmBMrYJLjJSO6sWOfVp3TBBQ5yRKxX8QZzNP0\nUDE1hj+15ASuV8fFQYbZlU2VXm4WuJsiPt89Hc11XXM/p4Xh/UwBEc95gM36ln/a\nhepCUXeDRzFNh6uVUuHxLg8G8kCSQQUbvo/Murrq7Xeka6WvRL0YDOtos1sRVBh6\nqQioPp470Urqq9XRNLOXRfg+XOwPylPuoeJCZ2xVly+oVP5i+IYpqCn21yxsf7zz\nlkHH37JOUGr1Vj4HTHse9jSAs2ESYUgVrCR2aY+03Cci+cXpybcgn2Q+O8OjQe73\n2bVQ1avl14QfDa6qAVxkoq6xT8x8NmYaBBV/PrwS4QKBgQDIFbCaVCuT+zOdm9Ey\nEH/8rIFZMGrhOfjCdEetcIPTfyUDDlUgJ4rEB6mcat5kEi6WKO+yENAWXcZzSdoJ\nLnEdpazNhCKHWSVeClU67y+6neCQRiFo8JD4KIjv8pcBPb4oYo74SBAbxIS+z4Qc\nb/yMRstgHM17css+fvoSdD3SeQKBgQC/2Twne10cBm4R/biTPLamXLO9EGWB4Eed\nqzLvID4pBCq3rn4Wj1PZ57f6IIdZ4DohhvxVMLzaVC+cVivhrCcq15EHvcT3Ud55\nhIJY713X4SIDgcdEA5v6QugxLllfOl5Lgy8oPm3hRb8xZma9wRD50cGtdcDbWx06\nUNXVf0YFCwKBgBNIY9i7u+drEjJiTerxRCRpy5142RQTrjGvWykP6uR7IGoG+5U5\nulniEyqL8hra1bqK/269yBAfwXxi5ax02VnuGZVE4r8AjGVfwY8IdiUaCgZde+LN\nLGt+HJRjYMIx3R2vQfATodnLOq/Y9/Z1pHUwbXE51WPMUGIZgqg8o6ihAoGASfrD\nL5ZquTvhhh6I5n4rEMv+o5GHEyYhd7Nk2MFeNwLcVih7hseOViD82P9iMk49HGCp\nPVCmAqskEO1JzqRMFkE6M/oB0j1HxSRL/2+OiIjQTPnmlVuu8jqKvyxYWlhvtD7K\nGIK6bHww1iPeyp2AplU0kmcuD2h7RNmXG9UQczECgYBd1+v3jYSyIjcg/ulmm/Xk\nvbz+rypsGszN5wOLCXfJhE4ZdB+GmXaR66vz4t6aEqCYmnQ4s9N9D1vnVkhblfxh\nHjBOUdmP2OewjCGDqKm/Xb8p3x4WAZwW2OlvWkQIdV0FI4hA/aJ5vdrfZf2IMqsu\n9WvUfh6i1p93EDDn/VwROA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "google-drive-api@seo-datawarehouse-379113.iam.gserviceaccount.com",
+    "client_id": "113877084462576420942",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-drive-api%40seo-datawarehouse-379113.iam.gserviceaccount.com"
+  }
+  
