@@ -1,5 +1,5 @@
 #Credentials
-.secrets/creds.json
+scripts/.secrets/creds.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
